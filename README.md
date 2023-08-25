@@ -1,4 +1,4 @@
-Registro DS
+## Registro DS
 
 Facilita el registro de declaraciones de salud realizadas diariamente.
 
