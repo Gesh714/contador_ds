@@ -1,6 +1,4 @@
-# Nombre del Software
-
-RegistroDS
+Registro DS
 
 Facilita el registro de declaraciones de salud realizadas diariamente.
 
